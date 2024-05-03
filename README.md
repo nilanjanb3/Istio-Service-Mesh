@@ -19,9 +19,9 @@ This is an ongoing repo to learn Istio Service Mesh
     * [07-Getting Started with a Sample Application](https://istio.io/latest/docs/setup/getting-started/#bookinfo)
     * [08-Istio with Kiali Dashboard](https://istio.io/latest/docs/setup/getting-started/#dashboard)
 * 04-Traffic Management
-    * []()
-    * []()
-    * []()
+    * [01-Istio Gateway](https://istio.io/latest/docs/tasks/traffic-management/ingress/ingress-control/#configuring-ingress-using-a-gateway)
+    * [02-Virtual Service](https://istio.io/latest/docs/reference/config/networking/virtual-service/)
+    * [03-Destination Rules](https://istio.io/latest/docs/reference/config/networking/destination-rule/)
     * []()
     * []()
     * []()
